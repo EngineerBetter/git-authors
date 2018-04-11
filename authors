@@ -1,14 +1,15 @@
 authors:
   cs: Colin Simmons; colin.simmons
   dhr: David Head-Rapson; dhr
-  dj: Daniel Jones; daniel.jones
-  dy: Dan Young; dan.young
-  pj: Peter Ellis Jones; peter.jones
-  px: Panagiotis Xynos; panos
-  mh: Michael Hu
+  dj:  Daniel Jones; daniel.jones
+  dy:  Dan Young; dan.young
+  pj:  Peter Ellis Jones; peter.jones
+  px:  Panagiotis Xynos; panos
   jcm: Jonathan Matthews
+  wg:  Will Gant; will.gant
+  smb: Sapphire Mason-Brown; sapphire.mason-brown
+  ps:  Paddy Steed; paddy.steed
 email:
   domain: engineerbetter.com
 email_addresses:
-  mh: pxmyhdev@gmail.com
   jcm: contact@jpluscplusm.com
