@@ -1,16 +1,18 @@
 authors:
   cs: Colin Simmons; colin.simmons
   dhr: David Head-Rapson; dhr
-  dj:  Daniel Jones; daniel.jones
-  dy:  Dan Young; dan.young
-  ed:  Eva Dinkel; eva.dinckel
-  is:  Ivana Scott; ivana.scott
+  dj: Daniel Jones; daniel.jones
+  dy: Dan Young; dan.young
+  ed: Eva Dinkel; eva.dinckel
+  ik: Irbe Krumina; irbe.krumina
+  is: Ivana Scott; ivana.scott
   jcm: Jonathan Matthews
-  pj:  Peter Ellis Jones; peter.jones
-  ps:  Paddy Steed; paddy.steed
-  px:  Panagiotis Xynos; panos
+  js: Jessica Stenning; jessica.stenning
+  pj: Peter Ellis Jones; peter.jones
+  ps: Paddy Steed; paddy.steed
+  px: Panagiotis Xynos; panos
   smb: Sapphire Mason-Brown; sapphire.mason-brown
-  wg:  Will Gant; will.gant
+  wg: Will Gant; will.gant
 email:
   domain: engineerbetter.com
 email_addresses:
