@@ -8,5 +8,5 @@ Use the following to clone this repo, and create a symlink where `git-duet` expe
 # Clone this repo
 git clone git@github.com:EngineerBetter/git-authors.git $HOME/workspace/git-authors
 # Create symlink to the cloned repo
-ln -s !$ $HOME/.git-authors
+ln -s !$/.git-authors $HOME/.git-authors
 ```
