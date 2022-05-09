@@ -1,26 +1,28 @@
 authors:
+  ag: Adrienne Galloway; adrienne.galloway
   ap: Andy Paine; andy.paine
-  cs: Colin Simmons; colin.simmons
+  cc: Cai Cooper; cai.cooper
   cn: Chisara Nwabara; chisa
+  cs: Colin Simmons; colin.simmons
   dj: Daniel Jones; daniel.jones
   dm: Dominic Meddick; dom.meddick
-  is: Ivana Scott; ivana.scott
-  jcm: Jonathan Matthews
-  pj: Peter Ellis Jones; peter.jones
-  smb: Sapphire Mason-Brown; sapphire.mason-brown
-  wg: Will Gant; will.gant
-  cc: Cai Cooper; cai.cooper
-  tg: Tom Godkin; tom.godkin
-  mk: Marcin Kubica; marcin.kubica
   ge: Gareth Evans; gareth.evans
+  gc: Gustavo Carvalho
+  is: Ivana Scott; ivana.scott
+  jc: James Cleveland; james.cleveland
+  jcm: Jonathan Matthews
+  ld: Lilly Daniell; lilly.daniell
+  mk: Marcin Kubica; marcin.kubica
+  pj: Peter Ellis Jones; peter.jones
   rp: Richard Pryce; richard.pryce
   sc: Sam Colson; sam.colson
+  smb: Sapphire Mason-Brown; sapphire.mason-brown
   tf: Tobias Farrenkopf; tobias.farrenkopf
+  tg: Tom Godkin; tom.godkin
+  wg: Will Gant; will.gant
   wy: William Young; will.young
-  jc: James Cleveland; james.cleveland
-  ag: Adrienne Galloway; adrienne.galloway
-  ld: Lilly Daniell; lilly.daniell
 email:
   domain: engineerbetter.com
 email_addresses:
   jcm: contact@jpluscplusm.com
+  gc: gustavo.carvalho@container-solutions.com
