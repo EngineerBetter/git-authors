@@ -62,6 +62,11 @@ email = "marcin.kubica@engineerbetter.com"
 name = "Marcus Dantas"
 email = "marcus.dantas@engineerbetter.com"
 
+[nr]
+name = "Nick Ruffles"
+email = "nick.ruffles@engineerbetter.com"
+#signingkey = "CE8BC0AB"
+
 [pj]
 name = "Peter Ellis Jones"
 email = "peter.jones@engineerbetter.com"
